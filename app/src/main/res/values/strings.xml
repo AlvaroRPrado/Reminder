@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyRimender</string>
+    <string name="reminder_title">Lembrete</string>
+    <string name="reminder_title_details">Detalhe do lembrete</string>
 </resources>
