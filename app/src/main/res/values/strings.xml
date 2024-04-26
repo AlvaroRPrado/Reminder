@@ -2,4 +2,10 @@
     <string name="app_name">MyRimender</string>
     <string name="reminder_title">Lembrete</string>
     <string name="reminder_title_details">Detalhe do lembrete</string>
+    <string name="reminder_deleted_successfully">Lembrete deletado com sucesso</string>
+    <string name="reminder_error_to_delete">Erro em apagar o lembrete!</string>
+    <string name="reminder_updated_successfully">Lembrete atualizado com sucesso!</string>
+    <string name="reminder_updated_insuccessfully">Erro em atualizar o lembrete!</string>
+    <string name="reminder_inserted_successfully">Lembrete criado com sucesso!</string>
+    <string name="reminder_error_to_insert">Erro em criar o lembrete!</string>
 </resources>
